@@ -1,0 +1,15 @@
+{
+  "name": "biblioteca-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cartao.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "mocha": "^6.1.4"
+  }
+}
