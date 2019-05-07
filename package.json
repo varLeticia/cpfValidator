@@ -2,14 +2,18 @@
   "name": "cpf-validator-leticia",
   "version": "1.0.0",
   "description": "",
-  "main": "cartao.js",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/nyc/bin/nyc.js ./node_modules/mocha/bin/mocha"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^5.16.0",
-    "mocha": "^6.1.4"
+    "mocha": "^6.1.4",
+    "nyc": "^14.1.0"
   }
 }
