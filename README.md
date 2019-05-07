@@ -1,8 +1,8 @@
-##VERIFICAÇÃO DE CPF
+ ## VERIFICAÇÃO DE CPF
 
-    Neste projeto, foi desenvolvida uma biblioteca que verifica CPF retornando true ou false. 
+    - Neste projeto, foi desenvolvida uma biblioteca que verifica CPF retornando true ou false. 
 
-    Para realização desse projeto, foi utilizado JavaScript ES6, e para testes, mocha e chai, e para testar cobertura, o NYC. 
+    - Para realização desse projeto, foi utilizado JavaScript ES6, e para testes, mocha e chai, e para testar cobertura, o NYC. 
 
   ## **Como instalar:** 
    
