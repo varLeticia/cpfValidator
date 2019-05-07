@@ -6,10 +6,10 @@
 
   ## **Como instalar:** 
    
-   `$ npm install `
+   `$ npm install cpf-validator-leticia`
 
   ## **Como instalar:** 
 
-    > const writtenNumber = require("chayote-lib");
-    > console.log(writtenNumber(10))
+    > const cpfValidator = require("chayote-lib");
+    > console.log(cpfValidator(10))
     > // returns "dez" # cardValidator
