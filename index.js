@@ -20,4 +20,6 @@ function cpfValidator(strCPF) {
   }
   return true;
 }
+
+cpfValidator('33866903862');
 module.exports = cpfValidator;

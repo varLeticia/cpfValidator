@@ -13,14 +13,14 @@ $ npm instal cpf-validator-leticia
   ## **Como utilizar:** 
    #### Exemplo que retorna true:
 ```sh
-> const test = require("cpf-validator-leticia"); 
-> test.cpfValidator('46083135842')
+> const cpfValidator = require("cpf-validator-leticia"); 
+> cpfValidator('46083135842')
 > // return "true"
 ```
    #### Exemplo que retorna false:
 ```sh
-> const test = require("cpf-validator-leticia"); 
-> test.cpfValidator('46083135840')
+> const cpfValidator = require("cpf-validator-leticia"); 
+> cpfValidator('46083135840')
 > // return "false"
 ```
   ## **Roadmap oficial do projeto:**
